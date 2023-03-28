@@ -25,3 +25,7 @@ Access detailed font information such as PANOSE data and metadata with the app's
 
 ### 8. Code Usage Snippets
 Use code snippets to quickly integrate icons into your project. Snippets show you how to use each icon in an icon pack, helping you save time and streamline your workflow.
+
+
+## Privacy Policy
+You can view Glif's privacy policy [here](privacy.md).
