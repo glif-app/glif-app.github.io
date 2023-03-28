@@ -1,3 +1,9 @@
+---
+title: Privacy Policy
+layout: template
+filename: privacy.md
+---
+
 # Glif
 
 ## Privacy Policy
